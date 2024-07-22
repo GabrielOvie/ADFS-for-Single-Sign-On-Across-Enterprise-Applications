@@ -33,6 +33,8 @@ Implementing Active Directory Federation Services (ADFS) to provide Single Sign-
 - High availability and load balancing for ADFS
 - Security best practices for federated services
 - Troubleshooting federated authentication issues
+- 
+<!-- This is a comment in a Markdown file -->
 
 ## Detailed Step-by-Step Approach:
 Phase 1: Planning and Preparation (2 weeks)
