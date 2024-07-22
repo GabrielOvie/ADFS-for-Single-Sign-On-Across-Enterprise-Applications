@@ -37,7 +37,7 @@ Implementing Active Directory Federation Services (ADFS) to provide Single Sign-
 <!-- This is a comment in a Markdown file -->
 
 ## Detailed Step-by-Step Approach:
-Phase 1: Planning and Preparation (2 weeks)
+Phase 1: Planning and Preparation (Need more work in 2 weeks)
 1.1. Conduct a thorough inventory of all applications requiring SSO
 
 List all applications with their authentication methods
